@@ -10,7 +10,7 @@
 ## Worksheet Outcomes
 1. To develop an understanding on python programming for machine learning.
 2. Implementation of machine learning algorithms in python.
-3. Data preprocessing and implementation of machine learning algorithms in python for different data
+3. Data preprocessing and implementation of machine learning algorithms in python for different data.
 
 
 -----------------------
